@@ -12,3 +12,4 @@ README.md
 .env.test.local
 .env.production.local
 .env.development
+extra/
